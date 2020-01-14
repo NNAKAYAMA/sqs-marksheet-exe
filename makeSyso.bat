@@ -1,0 +1,2 @@
+windres --output-format=coff -o MarksheetReader\MarksheetReader.syso MarksheetReader\assets\versioninfo.rc
+windres --output-format=coff -o MarksheetEditer\MarksheetEditer.syso MarksheetEditer\assets\versioninfo.rc
